@@ -14,3 +14,4 @@ def add_tax(price, rate=0.2):
 
 def apply_coupon(price):
     return price - 5
+# TODO half-done
